@@ -7,9 +7,9 @@ And found this:
   * https://stackoverflow.com/questions/54854675/how-to-fit-a-set-of-3d-data-points-using-a-third-or-higher-degree-of-polynomial
 
 And asked ChatGPt-4:
-  * [How to fit a set of 3D data points using a third or higher degree of polynomial surface regression?](https://chat.openai.com/share/1d6ab013-9bf9-4b30-90c8-bcfd08294e2b)
+  * [How to fit a set of 3D data points using a third or higher degree of polynomial surface regression?](https://chat.openai.com/share/5442e056-1fc6-439e-999c-ae3afe5de8a1)
 
-I also had ask ChatGPT-4:
+I also asked ChatGPT-4:
   * [Generate a set of random 3d data points to represent a 3d surface in rust.](https://chat.openai.com/share/fc128866-2127-4de3-9c39-8783caf3a6b8)
 
 And the result is what's here :)
